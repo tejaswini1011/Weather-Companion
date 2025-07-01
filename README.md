@@ -1,44 +1,57 @@
 # 🌤️ Weather Companion
 
-**Weather Companion** is a simple and elegant weather web application that allows you to check the current weather of any city in the world.  
-Just enter the city name, and it will instantly fetch and display the live weather details.
+[![GitHub Repo stars](https://img.shields.io/github/stars/tejaswini1011/Weather-Companion?style=social)](https://github.com/tejaswini1011/Weather-Companion/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tejaswini1011/Weather-Companion?style=social)](https://github.com/tejaswini1011/Weather-Companion/network/members)
+[![GitHub license](https://img.shields.io/github/license/tejaswini1011/Weather-Companion)](https://github.com/tejaswini1011/Weather-Companion/blob/main/LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://tejaswini1011.github.io/Weather-Companion/)
 
 ---
 
-## 🚀 Live Demo
+## 📚 Table of Contents
+- [About](#-about)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Deployment](#-deployment)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
 
-👉 [View Weather Companion Live](https://tejaswini1011.github.io/Weather-Companion/)
+---
+
+## 🔍 About
+
+**Weather Companion** is a lightweight, interactive weather web app that allows you to get real-time weather information for any city.  
+Simply enter a city name and instantly see temperature, conditions, humidity, wind, and more — beautifully displayed with dynamic backgrounds and icons.
 
 ---
 
 ## ✨ Features
 
-✅ Enter any **city name** to get real-time weather updates.  
-✅ Automatically formats input (e.g., `neW yoRK` → `New York`).  
+✅ Enter any city name and get live weather data.  
+✅ Automatically formats input (e.g., `mUmBAi` ➜ `Mumbai`).  
 ✅ Shows:
-- 🌡 Temperature
-- 🌥 Weather condition
+- 🌡 Temperature & feels-like
+- 🌥 Weather condition with icon
 - 💧 Humidity, wind, pressure
-- ⛅ Feels like temperature
-- 📅 Current date & time  
-✅ Changes **background image and weather icon** dynamically based on weather condition.  
-✅ Responsive and clean UI.
+- 📅 Current date and time  
+✅ Dynamic **background images** based on weather.  
+✅ Fully responsive & clean UI.
 
 ---
 
-## ⚙️ Built With
+## 🚀 Tech Stack
 
-- **HTML**
-- **CSS**
-- **JavaScript**
+- HTML
+- CSS
+- JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
 
-## 📌 How to Use Locally
+## ⚙️ Getting Started
 
-1️⃣ Clone this repository:
-
+### 🔄 Clone the repo
 ```bash
 git clone https://github.com/tejaswini1011/Weather-Companion.git
 cd Weather-Companion
