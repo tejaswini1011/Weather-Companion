@@ -1,41 +1,44 @@
-# Weather_webApp
+# 🌤️ Weather Companion
 
-## I used open weather API to fetch data 
+**Weather Companion** is a simple and elegant weather web application that allows you to check the current weather of any city in the world.  
+Just enter the city name, and it will instantly fetch and display the live weather details.
 
-### This  web project done in html,css ,js
+---
 
-#### Web link 
+## 🚀 Live Demo
 
- https://sachinprajapati8604.github.io/Weather_webApp/
- 
- #### netlify link
- 
- https://spweather.netlify.app/
- 
-### Features of the project.
+👉 [View Weather Companion Live](https://tejaswini1011.github.io/Weather-Companion/)
 
-* It provide dynamic weather data like temp, min max temp etc.
-* Dynamic background images change according to weather status.
-* Dynamic weather icon change according to weather status.
-* It provide basic information like feels like temperature,humidity,pressure,wind speed.
-* It will not accept empty input.
-* it will give you  alert if city name not matched with api  data.
-* a good  ux/ui 
+---
 
+## ✨ Features
 
-### Snapshot
+✅ Enter any **city name** to get real-time weather updates.  
+✅ Automatically formats input (e.g., `neW yoRK` → `New York`).  
+✅ Shows:
+- 🌡 Temperature
+- 🌥 Weather condition
+- 💧 Humidity, wind, pressure
+- ⛅ Feels like temperature
+- 📅 Current date & time  
+✅ Changes **background image and weather icon** dynamically based on weather condition.  
+✅ Responsive and clean UI.
 
-* Default 
-<img src="ss/demo1.png" width="100%">
+---
 
-* when you entered any valid city
- <img src="ss/demo.png" width="100%">
+## ⚙️ Built With
 
-* when you did'nt entered anything 
- <img src="ss/empty.png" width="100%">
+- **HTML**
+- **CSS**
+- **JavaScript**
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
-* when entered city did'nt matched with data
- <img src="ss/bad.png" width="100%">
+---
 
+## 📌 How to Use Locally
 
+1️⃣ Clone this repository:
 
+```bash
+git clone https://github.com/tejaswini1011/Weather-Companion.git
+cd Weather-Companion
